@@ -1,0 +1,281 @@
+text,intent
+"Can I get loan options for 50,000 TL for 12 months?",Request_Loan_Proposals
+"Show me loans for 100,000 TL with a 5-year term.",Request_Loan_Proposals
+"I need a loan proposal for 200,000 TL for 36 months.",Request_Loan_Proposals
+"Find me loan rates for 75,000 TL over 24 months.",Request_Loan_Proposals
+"I'm looking for loans up to 150,000 TL for a 10-year term.",Request_Loan_Proposals
+"What are my options for a 60,000 TL loan over 6 years?",Request_Loan_Proposals
+"I'd like to see proposals for a 30,000 TL loan for 3 years.",Request_Loan_Proposals
+"Can you find loan terms for 120,000 TL for a 48-month period?",Request_Loan_Proposals
+"I require a loan of 80,000 TL for a term of 7 years.",Request_Loan_Proposals
+"Please provide loan options for 90,000 TL for a 4-year term.",Request_Loan_Proposals
+"What loans can I get for 130,000 TL over 5 years?",Request_Loan_Proposals
+"Show loan proposals for 40,000 TL for a 2-year period.",Request_Loan_Proposals
+"I want to borrow 110,000 TL for 18 months. What are my options?",Request_Loan_Proposals
+"Provide me with loans for 70,000 TL for a 30-month term.",Request_Loan_Proposals
+"Search for loan rates for 160,000 TL over 8 years.",Request_Loan_Proposals
+"What are the proposals for a 45,000 TL loan for 3 years?",Request_Loan_Proposals
+"I'm interested in a 55,000 TL loan for a 4-year term.",Request_Loan_Proposals
+"Find me the best loan for 65,000 TL for 20 months.",Request_Loan_Proposals
+"Can I get proposals for a 95,000 TL loan over 10 years?",Request_Loan_Proposals
+"Show me loan options for 85,000 TL for a 6-month term.",Request_Loan_Proposals
+"I'm interested in getting a loan for 130,000 TL over 5 years.",Request_Loan_Proposals
+"Find me the best rates for a loan of 180,000 TL for 4 years.",Request_Loan_Proposals
+"I need loan options for 200,000 TL with a repayment term of 36 months.",Request_Loan_Proposals
+"Show me what loans are available for 160,000 TL over a 10-year period.",Request_Loan_Proposals
+"Can you provide loan proposals for 50,000 TL for a 6-month term?",Request_Loan_Proposals
+"What loan options do I have for 90,000 TL over 3 years?",Request_Loan_Proposals
+"I want to see loans for 70,000 TL for a 2-year term.",Request_Loan_Proposals
+"Can you find me a loan for 40,000 TL with a 1-year repayment plan?",Request_Loan_Proposals
+"Please provide loan terms for 120,000 TL for a duration of 8 years.",Request_Loan_Proposals
+"I am looking for a loan of 110,000 TL to be paid back in 7 years.",Request_Loan_Proposals
+"I'm looking for a loan of 130,000 TL for a 30-month period.",Request_Loan_Proposals
+"Can you suggest loan plans for 85,000 TL with a 4-year term?",Request_Loan_Proposals
+"I need information on loans for 95,000 TL over 3 years.",Request_Loan_Proposals
+"Show me loan options for 105,000 TL for a 2-year repayment.",Request_Loan_Proposals
+"What are the loan proposals for 115,000 TL for 18 months?",Request_Loan_Proposals
+"Can I get details on loans for 125,000 TL over 6 years?",Request_Loan_Proposals
+"I want to find out about loans for 135,000 TL for 5 years.",Request_Loan_Proposals
+"Provide loan options for 145,000 TL over 7 years.",Request_Loan_Proposals
+"Find me the best rates for a 155,000 TL loan for 8 years.",Request_Loan_Proposals
+"I'm interested in a loan for 165,000 TL for 9 months.",Request_Loan_Proposals
+"Can I see loan plans for 175,000 TL over 10 years?",Request_Loan_Proposals
+"Show me the options for a 185,000 TL loan for 12 months.",Request_Loan_Proposals
+"I need a loan of 195,000 TL for a 20-year term.",Request_Loan_Proposals
+"What loans can I get for 205,000 TL for 25 years?",Request_Loan_Proposals
+"Provide me with options for a 215,000 TL loan for 15 months.",Request_Loan_Proposals
+"I'm looking for loan terms for 225,000 TL over 22 months.",Request_Loan_Proposals
+"Can you find a loan for 235,000 TL for a 6-month period?",Request_Loan_Proposals
+"I want proposals for a 245,000 TL loan over 3 years.",Request_Loan_Proposals
+"What are the loan options for 255,000 TL for a 40-month term?",Request_Loan_Proposals
+"Show me the proposals for a loan of 265,000 TL for 50 months.",Request_Loan_Proposals
+"I'm considering a loan of 275,000 TL for a 2-year repayment plan.",Request_Loan_Proposals
+"What are my options for a loan of 280,000 TL over 15 years?",Request_Loan_Proposals
+"Show me the proposals for 285,000 TL with a 3-year term.",Request_Loan_Proposals
+"Can I see loan options for 290,000 TL for a 10-month duration?",Request_Loan_Proposals
+"I need loan proposals for 295,000 TL over a period of 20 months.",Request_Loan_Proposals
+"Find me loans for 300,000 TL with a 7-year repayment term.",Request_Loan_Proposals
+"Provide loan options for 305,000 TL over 5 years.",Request_Loan_Proposals
+"I'm looking for a loan of 310,000 TL for a 12-year term.",Request_Loan_Proposals
+"Please suggest loans for 315,000 TL over a 6-month period.",Request_Loan_Proposals
+"Show me the best rates for a 320,000 TL loan for 8 years.",Request_Loan_Proposals
+"I want proposals for 325,000 TL over a 9-month term.",Request_Loan_Proposals
+"Can I get a loan for 330,000 TL for a term of 11 years?",Request_Loan_Proposals
+"Find me a loan option for 335,000 TL over 14 months.",Request_Loan_Proposals
+"I'm interested in a 340,000 TL loan for a duration of 18 months.",Request_Loan_Proposals
+"Please find loan options for 345,000 TL for a 25-year term.",Request_Loan_Proposals
+"Show me the proposals for a 350,000 TL loan over 30 months.",Request_Loan_Proposals
+"I need a loan for 355,000 TL with a repayment term of 4 years.",Request_Loan_Proposals
+"What are my options for a 360,000 TL loan for 22 years?",Request_Loan_Proposals
+"Can you provide proposals for a 365,000 TL loan over 3 years?",Request_Loan_Proposals
+"I'm looking for a loan of 370,000 TL for a 16-month period.",Request_Loan_Proposals
+"Which bank offers the lowest interest rate for a 100,000 TL loan?",Inquire_Loan_Details
+"Can you compare the interest rates for 50,000 TL loans?",Inquire_Loan_Details
+"What is the best loan term for a 70,000 TL loan?",Inquire_Loan_Details
+"Are there any no-fee loan options available for 40,000 TL?",Inquire_Loan_Details
+Which loans have the least stringent repayment conditions?,Inquire_Loan_Details
+Can I see the loans with the longest repayment period?,Inquire_Loan_Details
+Which bank's loan proposal has the lowest monthly payment?,Inquire_Loan_Details
+"What are the interest rates for loans over 200,000 TL?",Inquire_Loan_Details
+Can you list the top 3 lowest interest rate loans for me?,Inquire_Loan_Details
+"Which loan option is best for a short-term 20,000 TL loan?",Inquire_Loan_Details
+"Show me the comparison of 150,000 TL loans across banks.",Inquire_Loan_Details
+What are the best fixed-rate loans available right now?,Inquire_Loan_Details
+"I need information on variable rate loans for 60,000 TL.",Inquire_Loan_Details
+Are there any special offers on loans for new customers?,Inquire_Loan_Details
+"What are the early repayment charges for a 90,000 TL loan?",Inquire_Loan_Details
+"Can I get details on the collateral requirements for 120,000 TL loans?",Inquire_Loan_Details
+Which loans have the most flexible repayment options?,Inquire_Loan_Details
+"Show me the best loans for a long-term 180,000 TL loan.",Inquire_Loan_Details
+"I want to compare the total cost of 30,000 TL loans.",Inquire_Loan_Details
+"What are the processing fees for a 75,000 TL loan?",Inquire_Loan_Details
+Which loans offer a grace period for the first six months?,Inquire_Loan_Details
+Can I see the loans with the most flexible repayment terms?,Inquire_Loan_Details
+"What's the average interest rate for a 150,000 TL loan?",Inquire_Loan_Details
+Do any of these loans offer cashback rewards?,Inquire_Loan_Details
+Which loan is the best if I plan to repay early?,Inquire_Loan_Details
+Can you show me loans with no early repayment fee?,Inquire_Loan_Details
+Are there any loans with an interest holiday?,Inquire_Loan_Details
+What are the benefits of choosing a fixed-rate loan?,Inquire_Loan_Details
+Can I get a comparison of the total interest paid for different loans?,Inquire_Loan_Details
+Which banks offer a fast-track application process for loans?,Inquire_Loan_Details
+Which bank offers the best overdraft protection for their loans?,Inquire_Loan_Details
+Can I see a comparison of the APR for different loans?,Inquire_Loan_Details
+What's the difference in total interest between these two loan proposals?,Inquire_Loan_Details
+Which loan plans include insurance coverage?,Inquire_Loan_Details
+Are there any loans with a holiday period for repayments?,Inquire_Loan_Details
+"What are the late payment charges on a 200,000 TL loan?",Inquire_Loan_Details
+"Can you compare the total cost of 250,000 TL loans from different banks?",Inquire_Loan_Details
+Which loans offer the most rewards or cashback?,Inquire_Loan_Details
+Are there any special loan rates for veterans?,Inquire_Loan_Details
+What are the minimum and maximum repayment terms available?,Inquire_Loan_Details
+Which banks offer loans with a balloon payment at the end?,Inquire_Loan_Details
+Can I get a breakdown of the fees for these loan proposals?,Inquire_Loan_Details
+Are there loans with a repayment holiday for the first year?,Inquire_Loan_Details
+What's the processing time for these loan applications?,Inquire_Loan_Details
+Do any of these loans offer loyalty points or rewards?,Inquire_Loan_Details
+Which loans are best for debt consolidation?,Inquire_Loan_Details
+Can you show loans that allow additional repayments without penalty?,Inquire_Loan_Details
+Which loans have the most lenient criteria for prepayment?,Inquire_Loan_Details
+Are there any interest-only loan options available?,Inquire_Loan_Details
+What are the foreclosure charges for these loans?,Inquire_Loan_Details
+"I'm ready to apply for the 250,000 TL loan option.",Inquire_Loan_Details
+"Let's initiate the application process for the 260,000 TL loan.",Inquire_Loan_Details
+"I would like to proceed with the 270,000 TL loan proposal.",Inquire_Loan_Details
+"Can you help me start the application for the 280,000 TL loan?",Inquire_Loan_Details
+"I've decided to go with the 290,000 TL loan offer.",Inquire_Loan_Details
+"How do I begin the process for the 300,000 TL loan?",Inquire_Loan_Details
+"Please assist me in applying for the 310,000 TL loan.",Inquire_Loan_Details
+"I'm interested in the 320,000 TL loan, how do I proceed?",Inquire_Loan_Details
+"I want to move forward with the 330,000 TL loan offer.",Inquire_Loan_Details
+"Guide me through the application for the 340,000 TL loan.",Inquire_Loan_Details
+"I choose the 350,000 TL loan, what are the next steps?",Inquire_Loan_Details
+"How do I finalize the application for the 360,000 TL loan?",Inquire_Loan_Details
+"I'd like to apply for the 370,000 TL loan from Bank G.",Inquire_Loan_Details
+"What's the process for the 380,000 TL loan application?",Inquire_Loan_Details
+"I want to accept the 390,000 TL loan proposal.",Inquire_Loan_Details
+"Let's proceed with the 400,000 TL loan application.",Inquire_Loan_Details
+"Please help me with the 410,000 TL loan process.",Inquire_Loan_Details
+"I'm ready to go ahead with the 420,000 TL loan.",Inquire_Loan_Details
+"How to start the application for the 430,000 TL loan?",Inquire_Loan_Details
+"I've decided on the 440,000 TL loan, how to apply?",Inquire_Loan_Details
+Which loan options offer a redraw facility?,Inquire_Loan_Details
+"Can I compare the upfront fees for loans of 300,000 TL?",Inquire_Loan_Details
+"What are the monthly repayments for a 350,000 TL loan over 5 years?",Inquire_Loan_Details
+Are there any loans with income protection insurance?,Inquire_Loan_Details
+Which loans offer the lowest interest for first-time borrowers?,Inquire_Loan_Details
+Can you show me loans with a linked offset account?,Inquire_Loan_Details
+What's the difference in total repayable amount between these loans?,Inquire_Loan_Details
+Which banks offer quick approval for personal loans?,Inquire_Loan_Details
+Can I see the loan options with the highest approval rates?,Inquire_Loan_Details
+"What are the fixed interest rate loan options for 400,000 TL?",Inquire_Loan_Details
+Do any loans offer a discount for green car purchases?,Inquire_Loan_Details
+Which loans have a loan-to-value ratio of 90%?,Inquire_Loan_Details
+Can I get a list of loans with no late payment fees?,Inquire_Loan_Details
+Are there any loans that offer a loyalty discount?,Inquire_Loan_Details
+What is the minimum income requirement for these loans?,Inquire_Loan_Details
+Which loans allow for a second mortgage as collateral?,Inquire_Loan_Details
+Can I get loans with a repayment pause option?,Inquire_Loan_Details
+What are the best interest rates for senior citizens?,Inquire_Loan_Details
+Are there loans with a guarantee from a third party?,Inquire_Loan_Details
+Can you show me loans with a balloon payment option?,Inquire_Loan_Details
+"I'd like to apply for the 100,000 TL loan from Bank A.",Proceed_With_Loan
+"How can I proceed with the 50,000 TL loan offer?",Proceed_With_Loan
+"I want to move forward with the 70,000 TL loan proposal.",Proceed_With_Loan
+"Can you help me apply for the 40,000 TL loan from Bank B?",Proceed_With_Loan
+"Guide me through applying for a 60,000 TL loan.",Proceed_With_Loan
+"I've chosen the 80,000 TL loan offer, what's next?",Proceed_With_Loan
+"I want to accept the loan proposal for 90,000 TL.",Proceed_With_Loan
+"How do I proceed with the 30,000 TL loan from Bank C?",Proceed_With_Loan
+"Direct me to the application for the 20,000 TL loan.",Proceed_With_Loan
+"I'm ready to go ahead with the 110,000 TL loan option.",Proceed_With_Loan
+"Take me to the 120,000 TL loan application page.",Proceed_With_Loan
+"I've decided on the 150,000 TL loan, what are the steps?",Proceed_With_Loan
+"I'm interested in proceeding with the 160,000 TL loan.",Proceed_With_Loan
+"Guide me to apply for the 180,000 TL loan.",Proceed_With_Loan
+"I choose the 200,000 TL loan, how to proceed?",Proceed_With_Loan
+"What's the process for the 75,000 TL loan application?",Proceed_With_Loan
+"I'd like to finalize the 85,000 TL loan.",Proceed_With_Loan
+"Help me with the application for a 95,000 TL loan.",Proceed_With_Loan
+"How do I accept the 65,000 TL loan offer?",Proceed_With_Loan
+"I'm ready to apply for the 55,000 TL loan.",Proceed_With_Loan
+"I've decided to go for the 140,000 TL loan, how do I start?",Proceed_With_Loan
+"Let's proceed with the loan offer of 130,000 TL.",Proceed_With_Loan
+"I want to finalize the 180,000 TL loan from Bank D.",Proceed_With_Loan
+"How do I accept the 160,000 TL loan proposal?",Proceed_With_Loan
+"I'm ready to proceed with the 150,000 TL loan offer from Bank E.",Proceed_With_Loan
+"Can you help me with the process for the 170,000 TL loan application?",Proceed_With_Loan
+"I choose to apply for the 190,000 TL loan, what's the next step?",Proceed_With_Loan
+"Guide me to proceed with the 200,000 TL loan from Bank F.",Proceed_With_Loan
+"I want to accept the 210,000 TL loan offer, how do I do that?",Proceed_With_Loan
+"Please assist me in applying for the 220,000 TL loan.",Proceed_With_Loan
+"I've chosen the 375,000 TL loan offer, how do I proceed?",Proceed_With_Loan
+"I'm ready to apply for the 380,000 TL loan from Bank H.",Proceed_With_Loan
+"Let's move forward with the 385,000 TL loan proposal.",Proceed_With_Loan
+"I want to finalize my application for the 390,000 TL loan.",Proceed_With_Loan
+"Help me proceed with the 395,000 TL loan option.",Proceed_With_Loan
+"I've decided on the 400,000 TL loan, what are the next steps?",Proceed_With_Loan
+"Can you guide me through applying for the 405,000 TL loan?",Proceed_With_Loan
+"I'd like to start the application for the 410,000 TL loan.",Proceed_With_Loan
+"How do I go about the 415,000 TL loan process?",Proceed_With_Loan
+"I'm interested in proceeding with the 420,000 TL loan.",Proceed_With_Loan
+"Please assist me with the 425,000 TL loan application.",Proceed_With_Loan
+"I want to apply for the 430,000 TL loan, what should I do?",Proceed_With_Loan
+"Let me know the process for the 435,000 TL loan application.",Proceed_With_Loan
+"I'd like to go ahead with the 440,000 TL loan offer.",Proceed_With_Loan
+"What's the application procedure for a 445,000 TL loan?",Proceed_With_Loan
+"Guide me to apply for the 450,000 TL loan.",Proceed_With_Loan
+"I choose the 455,000 TL loan, how do I proceed?",Proceed_With_Loan
+"Please help me apply for the 460,000 TL loan.",Proceed_With_Loan
+"I want to accept the 465,000 TL loan offer, how to start?",Proceed_With_Loan
+"I'm ready to proceed with the application for a 470,000 TL loan.",Proceed_With_Loan
+What documents do I need for a loan application?,General_Inquiry
+How long does the loan approval process take?,General_Inquiry
+Can I apply for a loan with a co-applicant?,General_Inquiry
+What are the general eligibility criteria for loan approval?,General_Inquiry
+How can I check my loan application status?,General_Inquiry
+Are there any prepayment penalties for loans?,General_Inquiry
+What is the maximum loan amount I can apply for?,General_Inquiry
+Can I get a loan with a bad credit score?,General_Inquiry
+How do I update my personal information for the loan application?,General_Inquiry
+What happens if I miss a loan payment?,General_Inquiry
+Is there a grace period for loan repayments?,General_Inquiry
+What are the interest rates for personal loans?,General_Inquiry
+How does a fixed interest rate differ from a variable one?,General_Inquiry
+Can I refinance my existing loan?,General_Inquiry
+What are the charges for loan processing?,General_Inquiry
+How do I calculate the EMI for my loan?,General_Inquiry
+Are there any tax benefits on loan repayments?,General_Inquiry
+What security do I need to provide for a loan?,General_Inquiry
+Can I get a loan for educational purposes?,General_Inquiry
+What is the difference between a secured and unsecured loan?,General_Inquiry
+Is it possible to get a loan without collateral?,General_Inquiry
+How can I renegotiate the terms of my existing loan?,General_Inquiry
+What is the typical interest rate for a mortgage loan?,General_Inquiry
+Can I get a loan with a guarantor instead of collateral?,General_Inquiry
+How do I consolidate multiple loans into one?,General_Inquiry
+What should I do if I find an error in my loan statement?,General_Inquiry
+Are there any penalties for late payments on loans?,General_Inquiry
+What types of loans are available for small businesses?,General_Inquiry
+Can I switch from a variable rate to a fixed rate on my loan?,General_Inquiry
+What are the implications of defaulting on a loan?,General_Inquiry
+How do I calculate interest for a deferred payment loan?,General_Inquiry
+What's the impact of my credit score on loan eligibility?,General_Inquiry
+Can I get a loan if I'm self-employed?,General_Inquiry
+How does loan consolidation affect my credit rating?,General_Inquiry
+What is the difference between the interest rate and APR?,General_Inquiry
+Can I change my loan repayment date?,General_Inquiry
+Are there any special loan programs for first-time borrowers?,General_Inquiry
+What's the policy on loan forbearance?,General_Inquiry
+How can I increase my loan eligibility?,General_Inquiry
+What are the consequences of defaulting on a secured loan?,General_Inquiry
+Can I transfer my loan to another person?,General_Inquiry
+How does refinancing a loan work?,General_Inquiry
+What are the advantages of a top-up loan?,General_Inquiry
+Are there any loans specifically for home renovation?,General_Inquiry
+Can I get a loan for overseas education?,General_Inquiry
+What's the process to settle a loan early?,General_Inquiry
+What is a co-signer's responsibility in a loan?,General_Inquiry
+How do joint loans work?,General_Inquiry
+Can I get a bridge loan while waiting for my home to sell?,General_Inquiry
+Is there a penalty for paying off a loan early?,General_Inquiry
+What are the eligibility criteria for a business loan?,General_Inquiry
+Can I get a loan with a part-time job?,General_Inquiry
+How do I apply for a loan moratorium?,General_Inquiry
+What are the implications of co-signing a loan?,General_Inquiry
+Are there any government-backed loan schemes available?,General_Inquiry
+How does a guarantor affect my loan application?,General_Inquiry
+Can I get a loan if I'm not a resident of this country?,General_Inquiry
+What is the maximum age limit for applying for a loan?,General_Inquiry
+How do I get a top-up on my existing loan?,General_Inquiry
+Can I switch lenders in the middle of my loan term?,General_Inquiry
+What is the impact of inflation on my loan repayments?,General_Inquiry
+How can I apply for a loan waiver?,General_Inquiry
+What are the tax implications of a personal loan?,General_Inquiry
+Can I get a loan against my property?,General_Inquiry
+What happens to my loan if I move abroad?,General_Inquiry
+How do I calculate the break cost on a fixed-rate loan?,General_Inquiry
+"What is a bridging loan, and how does it work?",General_Inquiry
+Can I get a loan for agricultural purposes?,General_Inquiry
+What are the requirements for a student loan?,General_Inquiry
+How do salary advances work as loans?,General_Inquiry

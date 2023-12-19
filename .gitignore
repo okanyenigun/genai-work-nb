@@ -1,0 +1,7 @@
+venv
+.env
+ner_trained_model
+noshare
+intent_model
+trained_model
+*.pyc
