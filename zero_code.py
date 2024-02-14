@@ -1,26 +1,35 @@
+import os
+import pickle
 import multiprocessing
 import pandas as pd
 from transformers import pipeline
-import pickle
-
-
-MODEL = "facebook/bart-large-mnli"
-
-LABELS = ["question", "complaint", "statement", "praise", "user interface", "design", "finance", 
-          "credit", "customer relationship", "performance"]
-
-df = pd.read_excel("ING_appstore_reviews.xlsx")
-
-pipe = pipeline("zero-shot-classification", model=MODEL)
+from datetime import date
 
 cpu_count = multiprocessing.cpu_count()
 num_processes = max(1, cpu_count - 1)
+
+MODEL = "facebook/bart-large-mnli"
+
+LABELS = ["install, update", "app performance", "user interface", "credit, credit cart", "call center, atm, branch", 
+          "bank reputation", "money transfer, account", "error, login issue", "complaint", "praise", "question", "statement"]
+
+pipe = pipeline("zero-shot-classification", model=MODEL)
+
+def get_df():
+    df = pd.read_excel("ing_review_w_user_ratings.xlsx")
+
+    start_date = date(2022,1,1)
+    if start_date:
+        df = df[df["date"] >= pd.to_datetime(start_date)]
+        df.reset_index(inplace=True,drop=True)
+    print("shape of df", df.shape[0])
+    return df
 
 def analyze_zero(args):
     index, text = args
     try:
         result = pipe(text, LABELS, multi_label=True)
-        print(f"Row {index}: Label - {result['labels']}, Score - {result['scores']}")
+        print(f"PID: {os.getpid()} - Row {index}")
         output = {
             index: result
         }
@@ -34,9 +43,10 @@ def analyze_zero(args):
     
 
 if __name__ == '__main__':
+    df = get_df()
     with multiprocessing.Pool(processes=num_processes) as pool:
         index_text_pairs = zip(df.index, df["deep_translator"])
         results = pool.map(analyze_zero, index_text_pairs)
-    pickle.dump(results, open("zero_shot_2.pkl", "wb"))
+    pickle.dump(results, open("zero_shot_new_labels.pkl", "wb"))
     
 
