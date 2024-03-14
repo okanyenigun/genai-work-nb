@@ -10,8 +10,7 @@ num_processes = max(1, cpu_count - 1)
 
 MODEL = "facebook/bart-large-mnli"
 
-LABELS = ["install, update", "app performance", "user interface", "credit, credit cart", "call center, atm, branch", 
-          "bank reputation", "money transfer, account", "error, login issue", "complaint", "praise", "question", "statement"]
+LABELS = ["error","performance","ux","pricing","product","atm","declartive","credit","angry","urgent", "not urgent"]
 
 pipe = pipeline("zero-shot-classification", model=MODEL)
 
